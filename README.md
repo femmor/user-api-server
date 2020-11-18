@@ -1,6 +1,6 @@
 # User-API-Server
 
-User-API-Server is a NodeJS API made with json-server.
+User-API-Server is a simple NodeJS API made with json-server.
 You can access it here - https://my-json-server.typicode.com/femmor/user-api-server
 
 ## Installation
